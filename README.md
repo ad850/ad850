@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">A passionate Front end developer</h3>
 
-- 🔭 I’m currently working on **World trips**
+
 
 - 🌱 I’m currently learning **JavaScript, React**
 
