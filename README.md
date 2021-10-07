@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱  **JavaScript, React**
 
 - 📫 How to reach me **aditya.sharma9827.as@gmail.com**
 
