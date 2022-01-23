@@ -4,6 +4,7 @@
 
 
 - 🌱  **JavaScript, React**
+- 🌱 I’m currently learning Data Structures and Algorithms.
 
 - 📫 How to reach me **aditya.sharma9827.as@gmail.com**
 - Website: https://ad850.github.io/Portfolio-Website/
